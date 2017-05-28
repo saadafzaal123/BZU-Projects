@@ -1,0 +1,119 @@
+/* CSS Document */
+
+#container 
+{
+	width:1000px;
+	background:black;   
+	margin: 0 auto;
+	border:5px solid white;
+}
+
+#mian_heading
+{
+   text-align:center;
+   padding:12px;
+   background:-webkit-radial-gradient(center,circle,black 30%,white 50%);
+   height:100px; 
+   border-bottom:5px solid white;
+}
+
+#mian_heading h1
+{
+   color:white;
+   line-height:53px;
+}
+
+#searching
+{
+   width:800px; 
+   float:left; 
+   margin-top:1px;
+}
+
+#img
+{
+   width:700px; 
+   float:left; 
+}
+
+#right_content
+{
+   float:right;
+   width:195px;
+   background:black;
+   border-left:3px solid white;
+   border-bottom:2px solid white;
+   margin-bottom:0px;   
+}
+
+#right_content h3
+{
+   margin-left:35px;
+   color:yellow;
+}
+
+#menu li
+{
+	list-style:none;
+	margin-left:-25px;
+	margin-bottom:20px;
+}
+
+#menu a
+{
+	color:white;
+	text-decoration:none;
+	font-size:18px;
+}
+
+#menu a:hover 
+{
+	text-decoration:underline;
+	color:yellow;
+	font-weight:bolder;
+}
+
+
+#menu .selected
+{
+	color:yellow;
+	text-decoration:none;
+}
+
+#delete a
+{
+   color:red;
+   text-decoration:underline;
+}
+
+#delete a:hover
+{
+    font-weight:bolder;
+}
+
+#edit a
+{
+   color:green;
+   text-decoration:underline;
+}
+
+#edit a:hover
+{
+    font-weight:bolder;
+}
+
+#login
+{
+     margin-top:60px;
+	 margin-bottom:60px;
+}
+
+.footer
+{
+	width:1000px;
+	height:100px;
+	background:-webkit-radial-gradient(center,circle,black 30%,white 50%);    
+	clear:both;
+	line-height:25px;
+	border-top:5px solid white;
+}
