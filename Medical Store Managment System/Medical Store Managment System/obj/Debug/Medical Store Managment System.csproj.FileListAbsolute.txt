@@ -1,0 +1,42 @@
+H:\B -Z -U\Medical Store Managment System\Medical Store Managment System\bin\Debug\Medical Store Managment System.exe.config
+H:\B -Z -U\Medical Store Managment System\Medical Store Managment System\bin\Debug\Medical Store Managment System.exe
+H:\B -Z -U\Medical Store Managment System\Medical Store Managment System\bin\Debug\Medical Store Managment System.pdb
+H:\B -Z -U\Medical Store Managment System\Medical Store Managment System\obj\Debug\Medical Store Managment System.csprojResolveAssemblyReference.cache
+H:\B -Z -U\Medical Store Managment System\Medical Store Managment System\obj\Debug\Medical_Store_Managment_System.Login_Form.resources
+H:\B -Z -U\Medical Store Managment System\Medical Store Managment System\obj\Debug\Medical_Store_Managment_System.Properties.Resources.resources
+H:\B -Z -U\Medical Store Managment System\Medical Store Managment System\obj\Debug\Medical Store Managment System.csproj.GenerateResource.Cache
+H:\B -Z -U\Medical Store Managment System\Medical Store Managment System\obj\Debug\Medical Store Managment System.exe
+H:\B -Z -U\Medical Store Managment System\Medical Store Managment System\obj\Debug\Medical Store Managment System.pdb
+H:\B -Z -U\Medical Store Managment System\Medical Store Managment System\obj\Debug\Medical_Store_Managment_System.UserPage.resources
+H:\B -Z -U\Medical Store Managment System\Medical Store Managment System\obj\Debug\Medical_Store_Managment_System.AdminPage.resources
+H:\B -Z -U\Medical Store Managment System\Medical Store Managment System\obj\Debug\Medical_Store_Managment_System.ResetPassword.resources
+H:\B -Z -U\Medical Store Managment System\Medical Store Managment System\obj\Debug\Medical_Store_Managment_System.ProductPage.resources
+H:\B -Z -U\Medical Store Managment System\Medical Store Managment System\obj\Debug\Medical_Store_Managment_System.ManageUserAccounts.resources
+H:\B -Z -U\Medical Store Managment System\Medical Store Managment System\obj\Debug\Medical_Store_Managment_System.Sales.resources
+H:\B -Z -U\Medical Store Managment System\Medical Store Managment System\obj\Debug\Medical_Store_Managment_System.Cart.resources
+H:\B -Z -U\Medical Store Managment System\Medical Store Managment System\obj\Debug\Medical_Store_Managment_System.Purchase.resources
+H:\B -Z -U\Medical Store Managment System\Medical Store Managment System\obj\Debug\Medical_Store_Managment_System.Stock.resources
+H:\B -Z -U\Medical Store Managment System\Medical Store Managment System\obj\Debug\Medical_Store_Managment_System.Report.resources
+H:\B -Z -U\Medical Store Managment System\Medical Store Managment System\obj\Debug\Medical_Store_Managment_System.Expense.resources
+E:\B -Z -U\6th Semester\Projects\Medical Store Managment System\Medical Store Managment System\bin\Debug\Medical Store Managment System.exe.config
+E:\B -Z -U\6th Semester\Projects\Medical Store Managment System\Medical Store Managment System\obj\Debug\Medical Store Managment System.exe
+E:\B -Z -U\6th Semester\Projects\Medical Store Managment System\Medical Store Managment System\obj\Debug\Medical Store Managment System.pdb
+E:\B -Z -U\6th Semester\Projects\Medical Store Managment System\Medical Store Managment System\bin\Debug\Medical Store Managment System.exe
+E:\B -Z -U\6th Semester\Projects\Medical Store Managment System\Medical Store Managment System\bin\Debug\Medical Store Managment System.pdb
+E:\B -Z -U\6th Semester\Projects\Medical Store Managment System\Medical Store Managment System\obj\Debug\Medical Store Managment System.csprojResolveAssemblyReference.cache
+E:\B -Z -U\6th Semester\Projects\Medical Store Managment System\Medical Store Managment System\obj\Debug\Medical_Store_Managment_System.AdminPage.resources
+E:\B -Z -U\6th Semester\Projects\Medical Store Managment System\Medical Store Managment System\obj\Debug\Medical_Store_Managment_System.Cart.resources
+E:\B -Z -U\6th Semester\Projects\Medical Store Managment System\Medical Store Managment System\obj\Debug\Medical_Store_Managment_System.Expense.resources
+E:\B -Z -U\6th Semester\Projects\Medical Store Managment System\Medical Store Managment System\obj\Debug\Medical_Store_Managment_System.Login_Form.resources
+E:\B -Z -U\6th Semester\Projects\Medical Store Managment System\Medical Store Managment System\obj\Debug\Medical_Store_Managment_System.ManageUserAccounts.resources
+E:\B -Z -U\6th Semester\Projects\Medical Store Managment System\Medical Store Managment System\obj\Debug\Medical_Store_Managment_System.ProductPage.resources
+E:\B -Z -U\6th Semester\Projects\Medical Store Managment System\Medical Store Managment System\obj\Debug\Medical_Store_Managment_System.Properties.Resources.resources
+E:\B -Z -U\6th Semester\Projects\Medical Store Managment System\Medical Store Managment System\obj\Debug\Medical_Store_Managment_System.Purchase.resources
+E:\B -Z -U\6th Semester\Projects\Medical Store Managment System\Medical Store Managment System\obj\Debug\Medical_Store_Managment_System.Report.resources
+E:\B -Z -U\6th Semester\Projects\Medical Store Managment System\Medical Store Managment System\obj\Debug\Medical_Store_Managment_System.ResetPassword.resources
+E:\B -Z -U\6th Semester\Projects\Medical Store Managment System\Medical Store Managment System\obj\Debug\Medical_Store_Managment_System.Sales.resources
+E:\B -Z -U\6th Semester\Projects\Medical Store Managment System\Medical Store Managment System\obj\Debug\Medical_Store_Managment_System.Stock.resources
+E:\B -Z -U\6th Semester\Projects\Medical Store Managment System\Medical Store Managment System\obj\Debug\Medical_Store_Managment_System.UserPage.resources
+E:\B -Z -U\6th Semester\Projects\Medical Store Managment System\Medical Store Managment System\obj\Debug\Medical Store Managment System.csproj.GenerateResource.Cache
+E:\B -Z -U\6th Semester\Projects\Medical Store Managment System\Medical Store Managment System\obj\Debug\Medical Store Managment System.csproj.ResolveComReference.cache
+E:\B -Z -U\6th Semester\Projects\Medical Store Managment System\Medical Store Managment System\bin\Debug\MySql.Data.dll
