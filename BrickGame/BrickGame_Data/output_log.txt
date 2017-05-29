@@ -1,0 +1,90 @@
+Initialize engine version: 5.3.3f1 (910d71450a97)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics (ID=0x106)
+    Vendor:   Intel
+    VRAM:     848 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Unit 3D Projects\BrickGame\BrickGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Unit 3D Projects\BrickGame\BrickGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Unit 3D Projects\BrickGame\BrickGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Unit 3D Projects\BrickGame\BrickGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Unit 3D Projects\BrickGame\BrickGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Unit 3D Projects\BrickGame\BrickGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Unit 3D Projects\BrickGame\BrickGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Unit 3D Projects\BrickGame\BrickGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.075 seconds
+Platform assembly: E:\Unit 3D Projects\BrickGame\BrickGame_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Unit 3D Projects\BrickGame\BrickGame_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.813725 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 135c -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.682606 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 354.
+Total: 0.342106 ms (FindLiveObjects: 0.024924 ms CreateObjectMapping: 0.037631 ms MarkObjects: 0.269287 ms  DeleteObjects: 0.009774 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.211128 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 372.
+Total: 0.414926 ms (FindLiveObjects: 0.053759 ms CreateObjectMapping: 0.052293 ms MarkObjects: 0.298610 ms  DeleteObjects: 0.008797 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.202820 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 378.
+Total: 0.328422 ms (FindLiveObjects: 0.022481 ms CreateObjectMapping: 0.021992 ms MarkObjects: 0.274174 ms  DeleteObjects: 0.009285 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at MusicManagerScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.261467 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 408.
+Total: 0.368009 ms (FindLiveObjects: 0.029812 ms CreateObjectMapping: 0.028834 ms MarkObjects: 0.299099 ms  DeleteObjects: 0.009285 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.241918 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 402.
+Total: 0.393911 ms (FindLiveObjects: 0.030300 ms CreateObjectMapping: 0.028346 ms MarkObjects: 0.325001 ms  DeleteObjects: 0.009774 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.228234 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 414.
+Total: 0.380716 ms (FindLiveObjects: 0.032744 ms CreateObjectMapping: 0.027857 ms MarkObjects: 0.309851 ms  DeleteObjects: 0.009285 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at MusicManagerScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.223835 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 444.
+Total: 0.395377 ms (FindLiveObjects: 0.032255 ms CreateObjectMapping: 0.043007 ms MarkObjects: 0.309362 ms  DeleteObjects: 0.010263 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.332821 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 498.
+Total: 0.414926 ms (FindLiveObjects: 0.040564 ms CreateObjectMapping: 0.035188 ms MarkObjects: 0.327445 ms  DeleteObjects: 0.010751 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.643160 ms
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 232.
+Total: 0.451092 ms (FindLiveObjects: 0.020526 ms CreateObjectMapping: 0.027857 ms MarkObjects: 0.301542 ms  DeleteObjects: 0.100677 ms)
+
