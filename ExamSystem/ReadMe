@@ -6,4 +6,4 @@ Go inside exam_system database click on import button located at the top of wind
 Select exam_system.sql file located in ExamSystem/exam_system.sql and then click on import button Database is imported 
 Now run ExamSystem.exe file located in ExamSystem/ExamSystem/bin/Debug/ExamSystem.exe
 Username  : Saad123
-Password  : 123a
+Password  : 123
