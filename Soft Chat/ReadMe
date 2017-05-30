@@ -1,0 +1,5 @@
+Open Project in NetBeans
+In Netbeans Under Services, open the Databases node.
+Right-click on Java DB and select properties.
+In the Database Location field, enter the path to the copied database folder located in Soft Chat/netbeans-derby
+Run Project from NetBeans or Run Jar file located in Soft Chat\dist\ServerClientGUI.jar
