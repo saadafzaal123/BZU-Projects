@@ -1,0 +1,9 @@
+Requirements  :  WampServer
+Install WampServer 
+Write on Browser link http://localhost/phpmyadmin/
+Create new DataBase name as exam_system
+Go inside exam_system database click on import button located at the top of window
+Select exam_system.sql file located in  ExamSystem/exam_system.sql and then click on import Database is imported 
+Now run ExamSystem.exe file located in ExamSystem/ExamSystem/bin/Debug/ExamSystem.exe
+Username  :  Saad123
+Password  : 123
