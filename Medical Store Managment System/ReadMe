@@ -1,0 +1,11 @@
+Install WampServer
+After Installation Click on its icon to start services
+On Browser address bar write http://localhost/phpmyadmin/
+Create new DataBase name as medical_store
+Go inside medical_store database click on import button located at the top of window
+Select medical_store.sql file located in Medical Store Managment System/medical_store.sql and then click on import button Database 
+is imported 
+Now run Medical Store Managment System.exe file located in Medical Store Managment System/Medical Store Managment System/bin/Debug/
+Medical Store Managment System.exe
+Username  : Saad Afzaal
+Password  : 123
