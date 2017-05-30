@@ -1,0 +1,14 @@
+Install WampServer
+After Installation Click on its icon to start services
+On Browser address bar write http://localhost/phpmyadmin/
+Create new DataBase by click on the new label located top left side of window and keep name of database is one_market
+Go inside one_market database click on import button located at the top of window
+Select one_market.sql file located in One_Market/one_market.sql and then click on import button Database is imported 
+Now place the whole project One_Market in your_installation_path_wampserver/Wamp/www/
+Open browser type http://localhost/One_Market/public/ in address bar 
+For Super Admin type http://localhost/One_Market/public/Admin_Login in address bar
+email : saad.afzaal777@gmail.com
+password : 123456
+For Vendor Admin type http://localhost/One_Market/public/Vendor_Login in address bar
+email : saad.afzaal777@gmail.com
+password : 123
